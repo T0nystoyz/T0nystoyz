@@ -28,6 +28,9 @@
   <img src="https://www.svgrepo.com/show/373829/maven.svg" title="maven" alt="maven" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" title="linux" alt="linux" width="80" height="80"/>&nbsp;
 </div>
+  
+  </h1>   
+  <h2 align="center">
   Собираюсь использовать:
   <div>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" title="kafka" alt="kafka" width="220" height="120"/>&nbsp;
@@ -35,7 +38,7 @@
   <img src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" title="kotlin" alt="kotlin" width="100" height="100"/>&nbsp;
   <img src="https://www.svgrepo.com/show/452115/telegram.svg" title="TelegramAPI" alt="TelegramAPI" width="100" height="100"/>&nbsp;
 </div>
-</h1>         
+      </h2>   
 
 
 :takeout_box: вне разработки люблю отвлечься на приготовление чего-нибудь вкусного из китайской кухни
