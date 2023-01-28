@@ -13,7 +13,7 @@
         <img height="200" width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=T0nystoyz&show_icons=true&theme=merko&custom_title=my+stats&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img height="210" width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=T0nystoyz&show_icons=true&theme=merko&hide_border=true"/>
+        <img height="220" width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=T0nystoyz&show_icons=true&theme=merko&hide_border=true"/>
     </a>
 </div>
 
