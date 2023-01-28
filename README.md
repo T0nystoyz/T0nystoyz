@@ -8,7 +8,7 @@
 
 :capital_abcd: владею английским и китайским языками
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=T0nystoyz&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true)](https://github.com/T0nystoyz/T0nystoyz/blob/main/README.md)
+[![My stats](https://github-readme-stats.vercel.app/api?username=T0nystoyz&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true)](https://github.com/T0nystoyz/T0nystoyz/main/README.md)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=T0nystoyz&theme=merko&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <h1 align="center">
@@ -19,7 +19,7 @@
   <img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" title="postman" alt="postman" width="90" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" alt="java" width="80" height="80"/>&nbsp;
-  <img src="https://hibernate.org/images/hibernate-logo.svg" title="hibernate" alt="hibernate" width="110" height="80"/>&nbsp;
+  <img src="https://hibernate.org/images/hibernate-logo.svg" title="hibernate" alt="hibernate" width="90" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/junit-team/junit5/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg" title="junit" alt="junit" width="80" height="80"/>&nbsp;
   <img src="https://www.svgrepo.com/show/373829/maven.svg" title="maven" alt="maven" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" title="linux" alt="linux" width="80" height="80"/>&nbsp;
