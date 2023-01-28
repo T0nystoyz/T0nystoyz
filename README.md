@@ -8,9 +8,21 @@
 
 :capital_abcd: владею английским и китайским языками
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=T0nystoyz&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true)](https://github.com/T0nystoyz/T0nystoyz/main/README.md)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=T0nystoyz&theme=merko&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
+<a><h2>Stats</h2></a>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=T0nystoyz&theme=merko&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=T0nystoyz&theme=merko&hide_border=true"/>
+    </a>
+    
+</div>
+
+<!-- [![My stats](https://github-readme-stats.vercel.app/api?username=T0nystoyz&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true)](https://github.com/T0nystoyz/T0nystoyz/main/README.md)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=T0nystoyz&theme=merko&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+-->
 <h1 align="center">
 Активно использую:
 <div>
