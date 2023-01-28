@@ -8,8 +8,8 @@
 
 :capital_abcd: владею английским и китайским языками
 
-<p align="center">
-<div>
+
+<div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img height="250" width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=T0nystoyz&show_icons=true&theme=merko&custom_title=my+stats&hide_border=true"/>
     </a>
@@ -17,7 +17,6 @@
         <img height="250" width="45%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=T0nystoyz&show_icons=true&theme=merko&hide_border=true"/>
     </a>
 </div>
-</p>
 
 <h2 align="center">
 Активно использую:
