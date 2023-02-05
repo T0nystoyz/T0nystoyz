@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./text2.gif"/>
+  <img src="./text2.gif" width="450" height="30"/>
+  
 </p>
 
 :space_invader: 1,5 года программирую на java. танцую с бубнами с рождения
@@ -53,3 +54,5 @@
 
 :skateboard: катаю на скейте
 
+<!--<img src="./text2.gif"/>
+-->
