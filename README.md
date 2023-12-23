@@ -3,15 +3,6 @@
   
 </p>
 
-:space_invader: 1,5 года программирую на java. танцую с бубнами с рождения
-
-:space_invader: практикуюсь на leetcode, готовлюсь к алгоритмическим задачам
-
-:space_invader: постоянно прохожу курсы и туториалы, участвую в митапах, слежу за новостями... Жаль я не многоядерный
-
-:capital_abcd: владею английским и китайским языками
-
-
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&include_all_commits=true&username=T0nystoyz&show_icons=true&theme=merko&custom_title=my+stats&hide_border=true"/>
