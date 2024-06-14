@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./text2.gif" width="400" height="30"/>
-  
-</p>
 
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
@@ -13,7 +9,6 @@
 </div>
 
 <h2 align="center">
-Активно использую:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="spring" alt="spring" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="80" height="80"/>&nbsp;
@@ -25,25 +20,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" title="linux" alt="linux" width="65" height="80"/>&nbsp;
   <img src="https://www.svgrepo.com/show/373829/maven.svg" title="maven" alt="maven" width="65" height="80"/>&nbsp;
 </div>
-  
   </h2>   
-  <h3 align="center">
-  Собираюсь использовать:
-  <div>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" title="kafka" alt="kafka" width="120" height="60"/>&nbsp;
-  <img src="https://myeditor.ru/wp-content/uploads/6/d/c/6dc91548a015aeb06ec9eabd2c0f8164.png" title="RabbitMQ" alt="RabbitMQ" width="90" height="60"/>&nbsp;
-  <img src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg" title="kotlin" alt="kotlin" width="60" height="60"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/452115/telegram.svg" title="TelegramAPI" alt="TelegramAPI" width="60" height="60"/>&nbsp;
-   </div>
-   </h3>   
-
-:takeout_box: вне разработки люблю отвлечься на приготовление чего-нибудь вкусного из китайской кухни
-
-:musical_keyboard: учусь создавать треки в Ableton
-
-:alien: читаю в оригинале научную фантастику
-
-:skateboard: катаю на скейте
-
-<!--<img src="./text2.gif"/>
--->
